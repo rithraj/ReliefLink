@@ -22,12 +22,12 @@ An app to assist suicide prevention, from coping techniques to relaxation exerci
 
 ## Team Members
 
+- Rithvik Rajavelu
 - Eduardo Trunci
 - Daniel Young
 - Alexandr Shor
 - Yuting Shen
 - Suvan Adhikari
-- Rithvik Rajavelu
 
 ## The Design
 We had some awesome people thinking on how to make this app look good. The process is still ongoing! Here a snippet of it:
